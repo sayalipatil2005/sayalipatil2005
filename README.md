@@ -24,7 +24,7 @@ I'm interested in building intelligent applications and exploring how AI can sol
 - Contributed to frontend/UI, testing, debugging, documentation and presentation.
 - Research paper work associated with the project.
 
-**WaferLens – Active Learning-Driven Framework for Semiconductor Wafer Defect Classification — Independent Research Direction**
+**WaferLens – Active Learning-Driven Framework for Semiconductor Wafer Defect Classification — Independent Research Direction**(Research in progress)
 - Exploring AI-based semiconductor wafer defect classification.
 - Focus: WM-811K wafer map dataset and active learning.
 - Research interests include reducing annotation effort and improving defect classification.
